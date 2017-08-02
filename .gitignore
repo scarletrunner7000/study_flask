@@ -1,3 +1,5 @@
+flaskr/flaskr/flaskr.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
